@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30027#Sult
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2009-09-19'
 gutenberg_type: Text
